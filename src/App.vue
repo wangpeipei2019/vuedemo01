@@ -131,7 +131,7 @@ export default{
 	name:"app",
 	data (){
 		return{
-			msg:"to",
+			msg:"to123123",
 			obj:{
 			name:"lili"
 			},
