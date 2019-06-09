@@ -2,8 +2,9 @@
 	
 		<div id="life">
 			<h3>生命周期函数的演示---{{msg}}</h3>
-			<button @click="run()">执行方法</button>
+			<button @click="run()">执行方法</button>烦烦烦方法
 		</div>
+		
 	
 </template>
 
