@@ -131,7 +131,7 @@ export default{
 	name:"app",
 	data (){
 		return{
-			msg:"to you Vue",
+			msg:"to",
 			obj:{
 			name:"lili"
 			},
